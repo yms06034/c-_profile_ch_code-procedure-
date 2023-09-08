@@ -151,6 +151,8 @@ BEGIN
     COMMIT; — Commit the TRANSACTION
 END
 ```
+![dag](erd.png "ERD")
+
 
 # login_session_real_time_query
 ```
